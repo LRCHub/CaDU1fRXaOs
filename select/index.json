@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Ruler Of My Heart (VIVINOS - ALNST 2nd Anniversary Remix Part.3)",
+  "base_artist": "6FU;",
+  "createdAt": "2026-04-01T04:23:38.879033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/01_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M • Rubyeye",
+      "has_synced": true,
+      "path": "select/02_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M_•_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M & Rubyeye",
+      "has_synced": true,
+      "path": "select/03_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M_&_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - ALNST 2nd Anniversary Remix Part.3)",
+      "artist": "6FU;",
+      "has_synced": false,
+      "path": "select/04_Ruler_Of_My_Heart_(VIVINOS_-_ALNST_2nd_Anniversary_Remix_Part.3)_6FU;.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M - Topic",
+      "has_synced": true,
+      "path": "select/05_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - 'Alien Stage Pt.5') (Original Soundtrack)",
+      "artist": "Release - Topic",
+      "has_synced": true,
+      "path": "select/06_Ruler_Of_My_Heart_(VIVINOS_-_'Alien_Stage_Pt.5')_(Original_Soundtrack)_Release_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "Rubyeye",
+      "has_synced": true,
+      "path": "select/07_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M • Rubyeye",
+      "has_synced": true,
+      "path": "select/08_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M_•_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5) (Paused)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/09_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_(Paused)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ruler of my heart (vivinos - alnst 2nd anniversary part.3)",
+      "artist": "6FU;",
+      "has_synced": false,
+      "path": "select/10_ruler_of_my_heart_(vivinos_-_alnst_2nd_anniversary_part.3)_6FU;.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - 'Alien Stage Pt.5') - Original Soundtrack",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/11_Ruler_Of_My_Heart_(VIVINOS_-_'Alien_Stage_Pt.5')_-_Original_Soundtrack_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - 'Alien Stage Pt.5') (Original Soundtrack)",
+      "artist": "Rubyeye",
+      "has_synced": true,
+      "path": "select/12_Ruler_Of_My_Heart_(VIVINOS_-_'Alien_Stage_Pt.5')_(Original_Soundtrack)_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)",
+      "artist": "BL8M et Rubyeye",
+      "has_synced": true,
+      "path": "select/13_Ruler_of_My_Heart_(VIVINOS_-_ALNST_Original_Soundtrack_Part.5)_BL8M_et_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - 'Alien Stage Pt.5') (Original Soundtrack)",
+      "artist": "BL8M & Rubyeye",
+      "has_synced": true,
+      "path": "select/14_Ruler_Of_My_Heart_(VIVINOS_-_'Alien_Stage_Pt.5')_(Original_Soundtrack)_BL8M_&_Rubyeye.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart (VIVINOS - ALNST 2nd Anniversary Remix Part.3) (Paused)",
+      "artist": "6FU;",
+      "has_synced": false,
+      "path": "select/15_Ruler_Of_My_Heart_(VIVINOS_-_ALNST_2nd_Anniversary_Remix_Part.3)_(Paused)_6FU;.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Nina Hagen",
+      "has_synced": true,
+      "path": "select/16_Ruler_Of_My_Heart_Nina_Hagen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/17_Ruler_of_My_Heart_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/18_Ruler_Of_My_Heart_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Mother Earth",
+      "has_synced": false,
+      "path": "select/19_Ruler_Of_My_Heart_Mother_Earth.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Linda Ronstadt",
+      "has_synced": false,
+      "path": "select/20_Ruler_of_My_Heart_Linda_Ronstadt.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/21_Ruler_of_My_Heart_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Willy DeVille",
+      "has_synced": false,
+      "path": "select/22_Ruler_of_My_Heart_Willy_DeVille.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Ruler of My Heart",
+      "artist": "Ronstadt, Linda",
+      "has_synced": false,
+      "path": "select/23_Ruler_of_My_Heart_Ronstadt,_Linda.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Ruler Of My Heart",
+      "artist": "Nina Hagen",
+      "has_synced": true,
+      "path": "select/24_Ruler_Of_My_Heart_Nina_Hagen.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Ruler of my heart",
+      "artist": "Irma Thomas",
+      "has_synced": true,
+      "path": "select/25_Ruler_of_my_heart_Irma_Thomas.lrc"
+    }
+  ]
+}
